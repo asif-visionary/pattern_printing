@@ -234,7 +234,7 @@ Every program includes an output screenshot to help visualize the expected resul
 
 | K Pattern | X Pattern |
 |-----------|-----------|
-| <img src="screenshots/k_pattern.png" width="400"> | <img src="screenshots/X_pattern.png" width="400"> |
+| <img src="screenshots/k_pattern.png" width="400"> | <img src="screenshots/x_pattern.png" width="400"> |
 
 ---
 
